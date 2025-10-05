@@ -20,6 +20,7 @@ Get ready for the most unique, ingenuitive and action packed open world based FP
 - **Discord:** [![Join our Discord](https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8QSbGBjRrv)
 
 - **Ko-fi:** [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R61MD20L)
+- 
 - **Website:** [Coming Soon](#)
 
 ---
