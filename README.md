@@ -1,16 +1,35 @@
-## Hi there 👋
+# 🔒 Lockdown – Minecraft Bedrock Server
 
-<!--
-**Zakleby/Zakleby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lockdown** is a unique, never before seen **Minecraft Bedrock** experience inspired by GTA and Jailbreak.  
+Get ready for the most unique, ingenuitive and action packed open world based FPS Minecraft server to hit Bedrock.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚨 Features
+
+- 🏙️ **Open World City** – Explore a fully custom-built map designed for roleplay, crime, and adventure.  
+- 💰 **Economy System** – Earn, trade, and spend your money through businesses, heists, and player interaction.  
+- 🔫 **Custom Cosmetics and Vehicles** – Unique systems built for the best Bedrock GTA-style experience including vehicles and cosmetics
+- 🏢 **Apartments and garages** - Supply your apartment with furniture unique to your style. Store your expensive, luxury vehicles inside of your garage and make it your own!
+- 💎 **Exclusive Content** – Supporters and VIP members gain access to sneak peeks, early updates, and behind-the-scenes content!
+
+--- 
+
+## 🌐 Connect With Us
+
+- **Discord:** [![Discord](https://img.shields.io/discord/1340062406910541875?color=5865F2&label=Discord&logo=discord&logoColor=white)](https://discord.gg/8QSbGBjRrv)
+
+- **Ko-fi:** [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R61MD20L)
+- **Website:** [Coming Soon](#)
+
+---
+
+## 🤝 Support the Project
+
+You can support development and get access to **exclusive content** by joining one of our Ko-fi tiers:  
+- 💸 **Lockdown Supporter** – Get exclusive sneak peeks and updates.  
+- 💎 **Lockdown VIP** – Unlock behind-the-scenes access and early previews.  
+
+Every contribution helps keep the city alive and evolving. 🏙️🔥
+
+---
