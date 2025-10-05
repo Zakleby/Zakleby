@@ -17,11 +17,17 @@ Get ready for the most unique, ingenuitive and action packed open world based FP
 
 ## 🌐 Connect With Us
 
-- **Discord:** [![Join our Discord](https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8QSbGBjRrv)
-
-- **Ko-fi:** [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R61MD20L)
-- 
-- **Website:** [Coming Soon](#)
+<p align="center">
+  <a href="https://discord.gg/8QSbGBjRrv">
+    <img src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord" />
+  </a>
+  <a href="https://ko-fi.com/R6R61MD20L">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Website-Coming%20Soon-lightgrey?style=for-the-badge" alt="Website Coming Soon" />
+  </a>
+</p>
 
 ---
 
